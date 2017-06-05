@@ -1,2 +1,2 @@
 # project_name
-My new project
+A better title!
